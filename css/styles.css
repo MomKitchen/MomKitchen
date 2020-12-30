@@ -1,0 +1,101 @@
+body {
+  background-image: url("../images/background_image.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.page1 {
+  background-image: url("../images/home_page.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.intro {
+  color: black;
+  font-size: 50px;
+  text-align: center;
+  margin: -600px 200px 0px 300px;
+  padding: 1px 50px 1px 50px;
+  width: 30%;
+  position: absolute;
+}
+
+.block1 {
+  color: black;
+  margin: 0px 200px 0px 50px;
+  padding: 1px 50px 1px 50px;
+  width: 10%;
+}
+
+.tag1 {
+  color: black;
+  font-size: 30px;
+  text-align: center;
+  margin: 1px 20px 10px 10px;
+  padding: 1px 50px 10px 10px;
+  width: 100%;
+}
+
+.tag2 {
+  color: black;
+  font-size: 30px;
+  text-align: center;
+  margin: 1px 20px 10px 10px;
+  padding: 1px 50px 10px 10px;
+  width: 100%;
+}
+
+.tag3 {
+  color: black;
+  font-size: 30px;
+  text-align: center;
+  margin: 1px 20px 10px 10px;
+  padding: 1px 50px 10px 10px;
+  width: 100%;
+}
+
+.tag4 {
+  color: black;
+  font-size: 30px;
+  text-align: center;
+  margin: 1px 20px 10px 10px;
+  padding: 1px 50px 10px 10px;
+  width: 100%;
+}
+
+.tag5 {
+  color: black;
+  font-size: 30px;
+  text-align: center;
+  margin: 1px 20px 10px 10px;
+  padding: 1px 50px 10px 10px;
+  width: 100%;
+}
+
+#top-heading{
+  text-align: center;
+  font-size: 50px;
+  color: black;
+}
+
+#entree{
+  font-size: 35px;
+  color: black;
+  margin: 0px;
+  padding: 0px 0px 0px 400px;
+}
+
+#entree-description{
+  font-size: 20px;
+  color: black;
+  margin: 0px 0px 20px 0px;
+  padding: 0px 0px 0px 400px;	
+}
+
+#entree-price{
+  font-size: 20px;
+  color: black;
+  margin: -40px 0px 20px 525px;
+  padding: 0px 0px 0px 400px;
+  position: absolute;
+}
